@@ -1,0 +1,3 @@
+Output:
+
+The constant term (c) is: 3
